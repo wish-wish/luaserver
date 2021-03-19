@@ -1,5 +1,11 @@
 # luaserver
-a simple server use lua, a big dream.  hello server.
+a simple server&client broadcast use lua, a big dream.  hello server.
+<br/>
+SocketServer.lua can step debug,SocketClient.lua not tested,just delay.
+<br/>
+big dream, want to impl select/iocp;select/poll/epoll;select/kqueue/rtsig;eventport;
+<br/>
+the reactor and the proactor
 <br/>
 depend on lua for windows install it first
 <br/>
