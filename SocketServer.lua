@@ -58,7 +58,7 @@ function SocketServer:startServer()
                         client:send(receiver.." Send");
                     end
                 else                    
-                    del_tab[cindex]=client_tab;
+                    del_tab[cindex]=client;
                 end
             end
         end
